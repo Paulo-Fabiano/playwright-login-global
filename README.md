@@ -4,5 +4,5 @@ No framework de testes Playwright, existem várias maneiras de configurar um log
 
 Hoje, apresentarei duas maneiras de configurar um login global no Playwright: 
 
-1. Utilizando um arquivo global na raiz do projeto.
-2. Separando a configuração para diferentes logins, caso necessário.
+1. Forma1 -> Utilizando um arquivo global na raiz do projeto.
+2. Forma2 -> Separando a configuração para diferentes logins, caso necessário.
